@@ -10,6 +10,7 @@ permalink: /
     <div>
       <h1>Microsoft BI, Fabric &amp; <span>Analytics Architecture</span></h1>
       <p class="lede">We turn fragmented reporting environments into governed analytics systems that leaders can trust, scale, and actually use.</p>
+      <p class="lede-aside">The dashboards come after the definitions.</p>
       <div class="actions">
         <a class="btn btn-primary" href="{{ '/offers/' | relative_url }}">Start an Assessment</a>
         <a class="btn btn-secondary" href="{{ '/work/' | relative_url }}">See our work</a>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: Contact details for Pafford BI LLC are coming soon.
+description: Contact details for Pafford BI LLC are coming soon. Connect on LinkedIn in the meantime.
 permalink: /contact/
 ---
 
@@ -16,8 +16,11 @@ permalink: /contact/
   <div class="wrap stack">
     <article class="page-card">
       <h2>Contact details are coming soon</h2>
-      <p>A public email address will be added here shortly. In the meantime, you can find the practice on GitHub.</p>
-      <p><a class="org-link" href="https://github.com/paffordbi">github.com/paffordbi</a></p>
+      <p>A public email address will be added here shortly. In the meantime, you can reach Brent Pafford on LinkedIn, or find the practice on GitHub.</p>
+      <p class="profile-links">
+        <a href="https://www.linkedin.com/in/brent-pafford-0bb85432/">LinkedIn</a>
+        <a href="https://github.com/paffordbi">github.com/paffordbi</a>
+      </p>
     </article>
 
     <article class="page-card">
