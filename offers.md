@@ -18,7 +18,7 @@ permalink: /offers/
     <article class="page-card">
       <h2>BI Architecture Assessment</h2>
       <p>Understand what is broken, why it matters, and what to fix first.</p>
-      <p>The Assessment is a tightly capped discovery engagement. It produces a decision-ready view of the current estate and a short list of changes that are worth making.</p>
+      <p>The Assessment is a tightly capped discovery engagement. It produces a decision-ready view of the current estate and a short, prioritized backlog of changes that are worth making.</p>
       <p><strong>Typically includes</strong></p>
       <ul class="include-list">
         <li>Stakeholder discovery and an inventory of the relevant reporting estate</li>

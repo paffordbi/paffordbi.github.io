@@ -26,6 +26,7 @@ permalink: /about/
       <p>Brent Pafford is the founder of Pafford BI LLC. He designs and builds the unglamorous parts of analytics that actually last: semantic models, KPI frameworks, and the governance around them, using SQL, Power BI, and Azure.</p>
       <p>Most reporting problems are not a missing dashboard. They are a missing definition, a fragile refresh, or five versions of the same number. Brent works with teams that have outgrown that mess and need an architecture they can trust, scale, and operate without a weekly rescue.</p>
       <p>He approaches the work as an architect who still builds, not as a slide-deck consultant.</p>
+      <p>A Professional Scrum Product Owner by training, he treats data as a product: who it serves, what is in the backlog, and what can wait.</p>
       <p>When he's not cooking up BI solutions, Brent enjoys brewing beer, smoking meats, and serving up Asian cuisine.</p>
       <p class="profile-links"><a href="https://www.linkedin.com/in/brent-pafford-0bb85432/">LinkedIn</a></p>
     </article>
@@ -34,8 +35,8 @@ permalink: /about/
       <h2>Credentials</h2>
       <ul class="cred-list">
         <li>Professional Scrum Product Owner I (Scrum.org, 2026)</li>
+        <li>Microsoft Certified: Power BI Data Analyst Associate (PL-300), renewed 2026</li>
         <li>Microsoft Certified: Azure Data Fundamentals (2026)</li>
-        <li>Microsoft Power BI Data Analyst (PL-300), <span class="earned">earned 2024</span></li>
         <li>Microsoft Certified: Azure Fundamentals, <span class="earned">earned 2023</span></li>
       </ul>
     </article>
