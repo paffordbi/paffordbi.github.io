@@ -22,7 +22,7 @@ permalink: /about/
 
     <article class="page-card">
       <h2>Brent Pafford</h2>
-      <!-- Headshot will be added here when provided. -->
+      <img class="headshot" src="{{ '/assets/img/brent-pafford.jpg' | relative_url }}" width="200" height="200" alt="Brent Pafford, founder of Pafford BI LLC">
       <p>Brent Pafford is the founder of Pafford BI LLC. He designs and builds the unglamorous parts of analytics that actually last: semantic models, KPI frameworks, and the governance around them, using SQL, Power BI, and Azure.</p>
       <p>Most reporting problems are not a missing dashboard. They are a missing definition, a fragile refresh, or five versions of the same number. Brent works with teams that have outgrown that mess and need an architecture they can trust, scale, and operate without a weekly rescue.</p>
       <p>He approaches the work as an architect who still builds, not as a slide-deck consultant.</p>
