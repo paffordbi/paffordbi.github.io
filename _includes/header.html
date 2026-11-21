@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Pafford BI LLC</a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/offers/' | relative_url }}" {% if page.url == "/offers/" %}aria-current="page"{% endif %}>Offers</a>
+      <a href="{{ '/work/' | relative_url }}" {% if page.url == "/work/" %}aria-current="page"{% endif %}>Work</a>
+      <a href="{{ '/about/' | relative_url }}" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About</a>
+      <a href="{{ '/contact/' | relative_url }}" {% if page.url == "/contact/" %}aria-current="page"{% endif %}>Contact</a>
+    </nav>
+  </div>
+</header>

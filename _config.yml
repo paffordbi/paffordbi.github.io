@@ -1,0 +1,16 @@
+title: Pafford BI LLC
+description: Microsoft BI, Fabric & Analytics Architecture
+url: https://paffordbi.github.io
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
+  - .gitignore
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
